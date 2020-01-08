@@ -1,7 +1,6 @@
 [
   { "name": "1Time Airline", "iata": "1T" },
   { "name": "40-Mile Air", "iata": "Q5" },
-  { "name": "88", "iata": "47" },
   { "name": "Abacus International", "iata": "1B" },
   { "name": "ABSA - Aerolinhas Brasileiras", "iata": "M3" },
   { "name": "Abu Dhabi Amiri Flight", "iata": "MO" },
@@ -628,8 +627,7 @@
   { "name": "Myanma Airways", "iata": "UB" },
   { "name": "Myanmar Airways International", "iata": "8M" },
   { "name": "MyTravel Airways", "iata": "VZ" },
-  { "name": "Myway Airlines", "iata": "8I" },
-  { "name": "N1", "iata": "N1" },
+  { "name": "Myway Airlines", "iata": "MJ" },
   { "name": "Nas Air", "iata": "XY" },
   { "name": "Nasair", "iata": "UE" },
   { "name": "National Air Cargo", "iata": "N8" },
